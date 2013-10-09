@@ -15,7 +15,7 @@ div { margin:0px; padding:0px; }
 	overflow:hidden;
 }
 
-#navigation { position:absolute; height:50px; box-sizing:border-box; width:100%; border:solid 1px black; z-index:10; }
+#navigation { position:absolute; height:50px; box-sizing:border-box; width:100%; border:solid 1px black; z-index:10; background-color: #048bc9;}
 
 #navigation .back, #navigation .forward {
 	position:absolute;
